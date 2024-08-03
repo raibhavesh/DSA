@@ -1,3 +1,3 @@
-public class new {
+public class new {gi
     
 }
