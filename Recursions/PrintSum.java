@@ -1,6 +1,6 @@
 //Print the sum of n natural no from 1 to n
 // using recursion
-package Recursions;
+// package Recursions;
 
 public class PrintSum{
 public static void printSum(int i, int n, int sum){
