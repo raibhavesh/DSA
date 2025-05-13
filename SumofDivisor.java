@@ -1,4 +1,4 @@
-import java.util.*;
+// Removed unused import
 import java.util.Scanner;
 public class SumofDivisor {
     public static long Divisorsum(int n){
@@ -28,6 +28,7 @@ public static void main(String[] args){
         }
 
         System.out.println("Sum of all divisors from 1 to " + n + " is: " + totalSum);
+        sc.close();
     }
 
 }

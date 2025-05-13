@@ -14,5 +14,6 @@ public class reversing {
         {
             System.out.println(number[i]);
         }
+        sc.close();
 }
 }

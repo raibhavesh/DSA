@@ -1,4 +1,5 @@
-package Recursions;
+// package Recursions;
+
 
 public class Factorial {
     public static int printFact(int n){
@@ -11,6 +12,7 @@ public class Factorial {
     }
     public static void main(String args[]){
         int n = 5;
+        
         int ans = printFact(n);
         System.out.println();
         System.out.println(ans);    

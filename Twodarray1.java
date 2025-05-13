@@ -31,6 +31,7 @@ public class Twodarray1 {
             }
         }
         }
+        sc.close();
         
 
 

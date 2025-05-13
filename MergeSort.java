@@ -54,7 +54,9 @@ public class MergeSort {
         divide(arr, 0, size-1);
         for(int i=0;i<size;i++){
             System.out.println(arr[i] + " ");
+
     }
+    sc.close();
     }
     
 

@@ -25,6 +25,7 @@ public class transposematrix {
 
     }
     System.out.println();
+    sc.close();
 }
     
     }

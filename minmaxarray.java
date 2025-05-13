@@ -19,6 +19,7 @@ public class minmaxarray{
 
         System.out.println("Minimum element is:" + min);
         System.out.println("Minimum element is:" + max);
+        sc.close();
 
 
 

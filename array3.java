@@ -20,6 +20,7 @@ public class array3 {
             }
 
         } 
+        sc.close();
     }
     
 }
